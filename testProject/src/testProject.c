@@ -13,5 +13,6 @@
 
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	printf("Have a good day");
 	return EXIT_SUCCESS;
 }

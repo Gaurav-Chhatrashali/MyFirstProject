@@ -14,5 +14,6 @@
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
 	printf("Have a good day");
+	printf("Ne");
 	return EXIT_SUCCESS;
 }
